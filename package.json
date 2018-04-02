@@ -1,0 +1,19 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "",
+  "main": "digital2Chinese.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AfterThreeYears/utils.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AfterThreeYears/utils/issues"
+  },
+  "homepage": "https://github.com/AfterThreeYears/utils#readme"
+}
